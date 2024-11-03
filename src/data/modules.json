@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "HTML Basics",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Understanding HTML Structure"
+            },
+            {
+                "id": 2,
+                "title": "Working with Forms"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "CSS Fundamentals",
+        "lessons": [
+            {
+                "id": 3,
+                "title": "CSS Selectors and Properties"
+            }
+        ]
+    }
+]
